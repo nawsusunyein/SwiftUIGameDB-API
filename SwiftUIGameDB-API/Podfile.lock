@@ -1,0 +1,32 @@
+PODS:
+  - IGDB-SWIFT-API (0.2.1):
+    - Just
+    - SwiftProtobuf (~> 1.0)
+  - Just (0.8.0)
+  - SwiftProtobuf (1.8.0)
+
+DEPENDENCIES:
+  - IGDB-SWIFT-API (from `https://github.com/husnjak/IGDB-API-SWIFT.git`)
+
+SPEC REPOS:
+  trunk:
+    - Just
+    - SwiftProtobuf
+
+EXTERNAL SOURCES:
+  IGDB-SWIFT-API:
+    :git: https://github.com/husnjak/IGDB-API-SWIFT.git
+
+CHECKOUT OPTIONS:
+  IGDB-SWIFT-API:
+    :commit: 7a64a4a25c357709337de1af94d05eaccc100199
+    :git: https://github.com/husnjak/IGDB-API-SWIFT.git
+
+SPEC CHECKSUMS:
+  IGDB-SWIFT-API: 8171c8cff2a6cdfe51b8593a9ec1a0a557afb692
+  Just: aef5105fb2c7069b65aa6f21aec8f429057f9c19
+  SwiftProtobuf: 2cbd9409689b7df170d82a92a33443c8e3e14a70
+
+PODFILE CHECKSUM: 3fbbcb967e8477c91c2ae2e1824e6c10d3dadb2c
+
+COCOAPODS: 1.9.1

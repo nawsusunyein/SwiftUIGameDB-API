@@ -1,0 +1,6 @@
+framework module Pods_SwiftUIGameDB_API_SwiftUIGameDB_APIUITests {
+  umbrella header "Pods-SwiftUIGameDB-API-SwiftUIGameDB-APIUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
